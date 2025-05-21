@@ -97,5 +97,4 @@ This repository documents the design, hardware integration, and prototyping of a
 
 ## 🎥 Demo Video 
 
-📽️ [Watch Video on Google Drive](https://yourvideolink.com)  
-*Link here if you upload a working demo.*
+📽️ [Watch Video on Google Drive]([https://yourvideolink.com](https://drive.google.com/drive/folders/1TNvkKNu4axBeoHTYECP6J2ObiK9xANx6?usp=drive_link))  
