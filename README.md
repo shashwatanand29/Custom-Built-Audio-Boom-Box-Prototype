@@ -62,11 +62,20 @@ This repository documents the design, hardware integration, and prototyping of a
 
 ## 📸 Project Media
 
-### Boom Box Prototype  
-![Boom Box Prototype](./prototype-photo.jpg)
-
-### Circuit Diagram  
-![Circuit Diagram](./boom-box-circuit.jpg)
+<table>
+  <tr>
+    <td><img src="Custom_Built_Audio_Boom_Box.jpg" width="300"/></td>
+    <td><img src="Custom_Built_Audio_Boom_Box_Charging_Monitor.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Custom_Built_Audio_Boom_Box_Battery_Pack.jpg" width="300"/></td>
+    <td><img src="Custom_Built_Audio_Boom_Box_BMS.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="Custom_Built_Audio_Boom_Box_Inside.jpg" width="300"/></td>
+    <td><img src="Custom_Built_Audio_Boom_Box_Back.jpg" width="300"/></td>
+  </tr>
+</table>
 
 
 
