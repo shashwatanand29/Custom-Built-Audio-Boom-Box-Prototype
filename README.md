@@ -97,4 +97,7 @@ This repository documents the design, hardware integration, and prototyping of a
 
 ## 🎥 Demo Video 
 
-📽️ [Watch Video on Google Drive](https://drive.google.com/file/d/1lwp948RQFKhyJF6PXhbXN4GmUYBBxtbc/view?usp=sharing)  
+📽️ [Watch Video on Google Drive](https://drive.google.com/file/d/1lwp948RQFKhyJF6PXhbXN4GmUYBBxtbc/view?usp=sharing)
+---
+🖼️ [More Photos on Google Drive](https://drive.google.com/drive/folders/1TNvkKNu4axBeoHTYECP6J2ObiK9xANx6?usp=drive_link)
+
