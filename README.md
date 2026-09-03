@@ -1,101 +1,134 @@
 # 🔊 Custom Built 2.1 Bluetooth Boom Box
 
-> 📅 **Started: November 2024 | Current Version: V2**
+> **A DIY portable 2.1-channel Bluetooth speaker developed through multiple hardware iterations — from a cardboard proof-of-concept to a reclaimed Philips speaker enclosure.**
 
-A custom-built portable **2.1-channel Bluetooth boom box** developed through multiple hardware iterations. The project combines audio electronics, lithium-ion battery technology, power management, soldering, speaker integration, and hands-on enclosure fabrication.
-
-The project began as a **cardboard prototype (V1)** and was later upgraded to **Version 2**, using a reclaimed Philips shelf-speaker enclosure for a more rigid and acoustically capable build.
+📅 **Project Started:** November 2024  
+🔧 **Current Version:** V2  
+📌 **Status:** Functional Prototype
 
 ---
 
-## 🎯 Project Highlights
+## 📖 About the Project
 
-- 🔊 Fully functional **2.1-channel portable audio system**
-- 📱 **Bluetooth audio** connectivity
-- 🎧 **AUX input** for wired audio sources
-- 🔋 Custom **6S 18650 Li-ion battery pack**
-- 🛡️ **6S 15A BMS** for battery protection
-- ⚡ **25.5V DC charging** through an external **XT60 connector**
-- 📟 Real-time battery **voltage and current monitoring**
+This project is a custom-built **portable 2.1-channel Bluetooth boom box** designed, assembled, and tested as a hands-on audio and power-electronics project.
+
+The system combines a **TPA3116D2 2.1-channel amplifier**, Bluetooth and AUX audio input, a custom **6S 18650 lithium-ion battery pack**, battery protection, external charging, real-time electrical monitoring, and a multi-speaker setup.
+
+The project was developed iteratively.
+
+### Version 1
+
+The original system was built in a **cardboard enclosure** in November 2024. The primary goal was to validate the electronics, battery system, audio architecture, and overall functionality.
+
+### Version 2
+
+The project was later rebuilt using an old **Philips shelf-speaker enclosure**. The new enclosure provides significantly better structural rigidity and acoustic performance compared with the original cardboard prototype.
+
+V2 also introduced an **XT60 external charging connector** while retaining Bluetooth and AUX connectivity.
+
+> **V1 validated the electronics and concept. V2 improved the enclosure, acoustic performance, and practical usability of the system.**
+
+---
+
+# 🎯 Project Highlights
+
+- 🔊 **2.1-channel stereo + subwoofer audio system**
+- 📱 Bluetooth wireless audio
+- 🎧 AUX wired audio input
+- 🔋 Custom 6S 18650 Li-ion battery pack
+- 🛡️ 6S 15A BMS for battery protection
+- ⚡ 25.5V DC charging
+- 🔌 XT60 external charging connector
+- 📟 Real-time voltage and current monitoring
 - 🔋 Integrated battery-level indicator
 - 🎚️ Dedicated audio controls
-- 🪵 V2 built using a **reclaimed Philips shelf-speaker enclosure**
-- 🔇 Internal acoustic damping
+- 🪵 Repurposed Philips shelf-speaker enclosure in V2
+- 🔇 Internal acoustic damping material
 - 🧰 Hand-built and soldered internal wiring
+- 🔧 Iterative hardware development from V1 to V2
 
 ---
 
 # 🚀 Version History
 
-## V1 — Original Cardboard Prototype
+## 🟤 V1 — Cardboard Prototype
 
-The project was initially built in **November 2024** using a cardboard enclosure.
+The first version of the boom box was built in **November 2024** using a cardboard enclosure.
 
-The purpose of V1 was to validate the complete electrical and audio system before investing time into a more permanent enclosure.
+The cardboard enclosure was intentionally used as a rapid-prototyping platform. It allowed the complete electronics and audio system to be assembled and tested before moving to a more rigid enclosure.
 
-### V1 included:
+### V1 Features
 
 - TPA3116D2 2.1-channel amplifier
-- Bluetooth audio
+- Bluetooth audio input
+- AUX audio input
 - 2 × Sony stereo drivers
 - Dedicated subwoofer
-- 6S 18650 battery pack
+- 6 × 18650 Li-ion cells
+- 6S battery configuration
 - 6S 15A BMS
 - 25.5V DC charging
-- Digital voltage/current monitoring
+- Digital voltage/current meter
+- Battery-level indicator
 - Hand-soldered internal wiring
 - Cardboard enclosure
 
-Although the cardboard enclosure was useful for rapid prototyping, it was not ideal for structural rigidity or acoustic performance.
+The V1 prototype successfully demonstrated the complete electrical and audio architecture.
 
 ---
 
-# 🆕 V2 — Enclosure & Connectivity Upgrade
+# 🆕 V2 — Philips Enclosure Upgrade
 
-Version 2 focuses primarily on improving the **physical construction, acoustics, and connectivity** of the original prototype.
+The second version replaced the temporary cardboard cabinet with a **reclaimed Philips shelf-speaker enclosure**.
 
-The electronics architecture and core audio system were retained, while the cardboard enclosure was replaced with a **reclaimed Philips shelf-speaker enclosure**.
+The existing wooden cabinet was modified to accommodate the custom speaker configuration, amplifier, battery system, controls, monitoring electronics, and charging interface.
 
-### Major V2 Changes
+### Major V2 Improvements
 
-| Feature | V1 | V2 |
+- 🪵 Replaced cardboard enclosure with a rigid wooden Philips enclosure
+- 🔊 Improved speaker mounting
+- 🔇 Added internal acoustic damping material
+- 🎵 Improved acoustic performance and sound quality
+- 🔌 Added a dedicated XT60 charging connector
+- 🎧 Retained AUX input
+- 📱 Retained Bluetooth connectivity
+- 📟 Retained voltage/current monitoring
+- 🔋 Retained battery-level indication
+- ⚙️ Reintegrated the existing 2.1-channel electronics
+
+The main objective of V2 was not to completely redesign the electronics, but to improve the **physical, acoustic, and practical implementation** of the original prototype.
+
+---
+
+# 📊 V1 vs V2
+
+| Feature | V1 — Original Prototype | V2 — Current Build |
 |---|---|---|
-| 🪵 Enclosure | Cardboard | Reclaimed Philips shelf-speaker enclosure |
-| 🔊 Speaker mounting | Prototype mounting | Improved rigid enclosure mounting |
-| 🔇 Acoustic treatment | Basic | Internal damping material |
-| 🔌 Charging connector | Basic DC input | **XT60 connector** |
-| 🎧 AUX input | Available | **Retained / integrated** |
+| 🪵 Enclosure | Cardboard | Reclaimed Philips wooden enclosure |
+| 🔊 Speaker mounting | Basic prototype mounting | Improved rigid mounting |
+| 🔇 Acoustic treatment | Limited | Internal damping material |
+| 🎵 Acoustic performance | Prototype-level | Improved |
+| 🔌 Charging connector | Basic charging connection | **XT60 connector** |
+| 🎧 AUX input | Yes | Yes |
+| 📱 Bluetooth | Yes | Yes |
 | 🔋 Battery | 6S 18650 | 6S 18650 |
 | 🛡️ BMS | 6S 15A | 6S 15A |
 | ⚡ Charging | 25.5V DC | 25.5V DC |
 | 📟 Voltage monitoring | Yes | Yes |
 | 📟 Current monitoring | Yes | Yes |
 | 🔋 Battery indicator | Yes | Yes |
-| 🔊 Amplifier | TPA3116D2 2.1 | TPA3116D2 2.1 |
-| 📱 Bluetooth | Yes | Yes |
-| 🧰 Construction | Rapid prototype | Rebuilt enclosure |
-| 🎵 Sound quality | Prototype-level | **Improved due to enclosure upgrade** |
-
-### What V2 Improved
-
-The biggest improvement in V2 is the **enclosure**.
-
-The original cardboard cabinet was replaced with a rigid wooden Philips speaker enclosure, providing a substantially better platform for the drivers and reducing the limitations of the original temporary construction.
-
-The enclosure was also fitted with internal acoustic damping material to help control internal reflections and resonance.
-
-An **XT60 connector** was added as the dedicated external charging connection, providing a more robust and practical charging interface.
-
-The **AUX input** was retained so the speaker can be used with both wireless Bluetooth sources and wired audio sources.
+| 🔉 Amplifier | TPA3116D2 2.1 | TPA3116D2 2.1 |
+| 🧰 Construction | Rapid prototype | Rebuilt/refined prototype |
+| 📦 Project purpose | Proof of concept | Improved functional build |
 
 ---
 
 # 🔧 Hardware Specifications
 
-| Component | Details |
+| Component | Specification |
 |---|---|
 | 🔉 **Amplifier** | TPA3116D2 2.1-channel amplifier |
-| 🔊 **Stereo Speakers** | 2 × Sony XS-FB102E |
+| 🔊 **Stereo Drivers** | 2 × Sony XS-FB102E |
 | 🔊 **Subwoofer** | Dedicated subwoofer driver |
 | 📱 **Wireless Input** | Bluetooth |
 | 🎧 **Wired Input** | AUX |
@@ -112,102 +145,78 @@ The **AUX input** was retained so the speaker can be used with both wireless Blu
 
 ---
 
-# ⚙️ System Architecture
+# 🔊 Audio System
+
+The boom box uses a **2.1-channel audio architecture** consisting of:
+
+- Left stereo channel
+- Right stereo channel
+- Dedicated subwoofer channel
+
+The two Sony drivers handle the stereo channels, while the larger dedicated driver handles the low-frequency/subwoofer channel.
+
+The system can accept audio through both:
+
+### 📱 Bluetooth
+
+Wireless audio playback from compatible smartphones, computers, tablets, and other Bluetooth-enabled devices.
+
+### 🎧 AUX
+
+A wired AUX input is provided for devices that require or prefer a direct analog audio connection.
+
+---
+
+# 🎚️ Control Panel
+
+The front panel integrates the primary audio controls, power controls, and monitoring hardware.
+
+### Audio Controls
+
+- Subwoofer volume
+- Subwoofer frequency
+- Treble / main volume
+- Treble frequency
+- Master volume
+
+### Power & Connectivity
+
+- Main ON/OFF switch
+- DC monitor switch
+- AUX input
+- XT60 charging input
+
+### Monitoring
+
+- 🔋 Battery-level indicator
+- ⚡ Battery voltage display
+- 🔌 Current draw display
+
+This allows the electrical state of the speaker to be monitored during both operation and charging.
+
+---
+
+# 🔋 Battery & Power System
+
+The boom box is powered by a custom **6S 18650 lithium-ion battery pack**.
+
+The six cells are arranged in a **6S series configuration**, producing a voltage suitable for the amplifier system.
+
+A **6S 15A BMS** is used for battery protection and management.
+
+### Battery System
 
 ```text
-                     ┌─────────────────────┐
-                     │   Bluetooth / AUX    │
-                     │     Audio Input      │
-                     └──────────┬──────────┘
-                                │
-                                ▼
-                     ┌─────────────────────┐
-                     │     TPA3116D2       │
-                     │   2.1 Ch Amplifier  │
-                     └──────┬────────┬─────┘
-                            │        │
-                       L + R │        │ Sub
-                            ▼        ▼
-                       ┌────────┐ ┌──────────┐
-                       │ Stereo │ │Subwoofer │
-                       │Drivers │ │  Driver  │
-                       └────────┘ └──────────┘
-
-
-                 ┌──────────────────────┐
-                 │ 6S 18650 Battery     │
-                 │      Pack            │
-                 └──────────┬───────────┘
-                            │
-                            ▼
-                     ┌─────────────┐
-                     │  6S 15A BMS │
-                     └──────┬──────┘
-                            │
-             ┌──────────────┼──────────────┐
-             │              │              │
-             ▼              ▼              ▼
-        Amplifier      V/A Meter     Battery Indicator
-
-
-        25.5V DC Charger
-               │
-               ▼
-          ┌─────────┐
-          │  XT60   │
-          │ Charging│
-          │  Input  │
-          └─────────┘
-
-## 🛠️ Assembly Overview
-
-1. **Battery Pack**: 6x 18650 cells configured in 6S, protected by a 15A BMS.
-2. **Wiring**: Manual soldering and cable routing for speakers, meters, amplifier, and power.
-3. **Audio Section**: Subwoofer and stereo channels connected to TPA3116D2 amp board.
-4. **Monitoring**: Digital voltmeter/ammeter mounted on face panel.
-5. **Power Input**: External 25.5V SMPS connected through dedicated charging port.
-6. **Enclosure**: Temporary build in cardboard; MDF version in future revision.
-
----
-
-## 📸 Project Media
-
-<table>
-  <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_Charging_Monitor.jpg" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box_Battery_Pack.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_BMS.jpg" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box_Inside.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_Back.jpg" width="300"/></td>
-  </tr>
-</table>
-
-
-
----
-
-## 🚀 Future Improvements
-
-- CNC-cut MDF or wooden enclosure with acoustic tuning
-
----
-
-## 👨‍💻 Author
-
-**Shashwat**  
-[GitHub](https://github.com/shashwatanand29) | [LinkedIn](https://www.linkedin.com/in/shashwat-anand-b85509209/)
-
----
-
-
-## 🎥 Demo Video 
-
-📽️ [Watch Video on Google Drive](https://drive.google.com/file/d/1lwp948RQFKhyJF6PXhbXN4GmUYBBxtbc/view?usp=sharing)
----
-🖼️ [More Photos on Google Drive](https://drive.google.com/drive/folders/1TNvkKNu4axBeoHTYECP6J2ObiK9xANx6?usp=drive_link)
-
+6 × 18650 Li-ion Cells
+          │
+          ▼
+      6S Battery
+          │
+          ▼
+       6S 15A BMS
+          │
+          ├──────────► TPA3116D2 Amplifier
+          │
+          ├──────────► Voltage / Current Meter
+          │
+          └──────────► Battery Indicator
