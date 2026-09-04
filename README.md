@@ -319,9 +319,9 @@ The Version 2 build uses a repurposed **Philips shelf-speaker enclosure**, repla
 
 <table>
   <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box_V2_Front.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_V2_Front2.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_V2_Side.jpg" width="300"/></td>
+    <td><img src="Version 2/Custom_Built_Audio_Boom_Box_V2_Front.jpg" width="300"/></td>
+    <td><img src="Version 2/Custom_Built_Audio_Boom_Box_V2_Front2.jpg" width="300"/></td>
+    <td><img src="Version 2/Custom_Built_Audio_Boom_Box_V2_Side.jpg" width="300"/></td>
     <td><img src="Version 2/Custom_Built_Audio_Boom_Box_V2_Back.jpg" width="300"/></td>
   </tr>
 </table>
@@ -330,9 +330,9 @@ The Version 2 build uses a repurposed **Philips shelf-speaker enclosure**, repla
 
 <table>
   <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box_V2_Internal.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_V2_Internal_Electronics1.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_V2_Internal_Electronics2.jpg" width="300"/></td>
+    <td><img src="Version 2/Custom_Built_Audio_Boom_Box_V2_Internal.jpg" width="300"/></td>
+    <td><img src="Version 2/Custom_Built_Audio_Boom_Box_V2_Internal_Electronics1.jpg" width="300"/></td>
+    <td><img src="Version 2/Custom_Built_Audio_Boom_Box_V2_Internal_Electronics2.jpg" width="300"/></td>
   </tr>
 </table>
 
