@@ -118,7 +118,7 @@ Cardboard Prototype
 |---|---|
 | 🔉 **Amplifier** | TPA3116D2 2.1-channel Class-D amplifier with Bluetooth + AUX input |
 | 🔊 **Stereo Drivers** | 2 × Sony XS-FB102E 4" full-range coaxial speakers |
-| 🔊 **Subwoofer** | 1 × 8" subwoofer |
+| 🔊 **Subwoofer** | 1 × 6.5" subwoofer |
 | ⚡ **Amplifier Rating** | Approx. 200W board rating / 2.1-channel configuration |
 | 🔋 **Battery Pack** | 6 × 18650 Li-ion cells configured as 6S |
 | 🔋 **Battery Configuration** | 6S1P, ~22.2V nominal, ~24.2V fully charged |
@@ -144,7 +144,7 @@ The left and right channels use **Sony XS-FB102E 4-inch full-range coaxial drive
 
 ### Subwoofer Channel
 
-A dedicated **8-inch subwoofer** handles the low-frequency portion of the audio spectrum.
+A dedicated **6.5-inch subwoofer** handles the low-frequency portion of the audio spectrum.
 
 The amplifier's dedicated subwoofer channel allows the low-frequency output to be controlled independently from the stereo channels.
 
