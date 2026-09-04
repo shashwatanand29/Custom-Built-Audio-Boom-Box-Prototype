@@ -7,7 +7,7 @@ A custom-built **portable 2.1-channel Bluetooth boom box** designed, assembled, 
 
 The project started as a functional **cardboard prototype (V1)** and was later rebuilt into **Version 2 using a repurposed Philips shelf-speaker enclosure**. The V2 enclosure provides a substantially more rigid and acoustically suitable structure, resulting in **better overall sound reproduction and improved bass response** compared with the original prototype.
 
-The core audio electronics and battery system were retained from the original design. At the same time, V2 introduced practical hardware improvements including a dedicated **AUX input** and an upgraded **XT60 charging connector** for more robust high-current DC charging.
+The core audio electronics and battery system were retained from the original design. At the same time, V2 introduced practical hardware improvements, including a dedicated **AUX input** and an upgraded **XT60 charging connector** for more robust high-current DC charging.
 
 ---
 
@@ -130,7 +130,7 @@ Cardboard Prototype
 | 📡 **Wireless Audio** | Integrated Bluetooth audio |
 | 🧱 **Enclosure** | Repurposed Philips shelf-speaker cabinet |
 | 🧰 **Internal Damping & Bass Port** | Acoustic(Polywool) damping material with bass port |
-| 🔧 **Construction** | Custom soldered wiring and manually integrated electronics |
+| 🔧 **Construction** | Custom-soldered wiring and manually integrated electronics |
 
 ---
 
@@ -252,7 +252,7 @@ The XT60 was integrated as the external charging interface and connected to the 
 
 ### 🧰 Internal Wiring & Assembly
 
-The internal components were connected using **custom soldered wiring**, with individual connections routed between the battery, BMS, amplifier, speakers, monitoring display, audio inputs, power controls, and charging interface.
+The internal components were connected using ** custom-soldered wiring**, with individual connections routed between the battery, BMS, amplifier, speakers, monitoring display, audio inputs, power controls, and charging interface.
 
 Care was taken to keep the wiring organized within the enclosure while maintaining secure electrical connections.
 
@@ -340,7 +340,7 @@ The Version 2 build uses a repurposed **Philips shelf-speaker enclosure**, repla
 
 <table>
   <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box_V2_Charging.jpg" width="300"/></td>
+    <td><img src="Version 2/Custom_Built_Audio_Boom_Box_V2_Charging.jpg" width="300"/></td>
   </tr>
 </table>
 
@@ -352,16 +352,16 @@ The original Version 1 prototype was built inside a temporary cardboard enclosur
 
 <table>
   <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_Charging_Monitor.jpg" width="300"/></td>
+    <td><img src="Version 1/Custom_Built_Audio_Boom_Box.jpg" width="300"/></td>
+    <td><img src="Version 1/Custom_Built_Audio_Boom_Box_Charging_Monitor.jpg" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box_Battery_Pack.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_BMS.jpg" width="300"/></td>
+    <td><img src="Version 1/Custom_Built_Audio_Boom_Box_Battery_Pack.jpg" width="300"/></td>
+    <td><img src="Version 1/Custom_Built_Audio_Boom_Box_BMS.jpg" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Custom_Built_Audio_Boom_Box_Inside.jpg" width="300"/></td>
-    <td><img src="Custom_Built_Audio_Boom_Box_Back.jpg" width="300"/></td>
+    <td><img src="Version 1/Custom_Built_Audio_Boom_Box_Inside.jpg" width="300"/></td>
+    <td><img src="Version 1/Custom_Built_Audio_Boom_Box_Back.jpg" width="300"/></td>
   </tr>
 </table>
 
@@ -378,7 +378,7 @@ The original Version 1 prototype was built inside a temporary cardboard enclosur
 The current Version 2 build is fully functional, but several mechanical and acoustic improvements are planned for the next revision.
 
 - 🪵 **CNC-Cut MDF Front Panel**  
-  The current front panel was custom fabricated using a reinforced stack of cardboard layers, tissue paper, and cotton bandage material bonded with a **Fevicol Marine + water mixture**. Although the panel is surprisingly strong and rigid, the next revision will replace it with a properly **CNC-cut MDF panel** for improved structural strength, durability, precision, and a cleaner professional finish.
+  The current front panel was custom-fabricated using a reinforced stack of cardboard layers, tissue paper, and cotton bandage material bonded with a **Fevicol Marine + water mixture**. Although the panel is surprisingly strong and rigid, the next revision will replace it with a properly **CNC-cut MDF panel** for improved structural strength, durability, precision, and a cleaner professional finish.
 
 - 🔊 **Bass Port Optimization**  
   The existing bass-reflex port will be redesigned and properly **tuned for the subwoofer and enclosure volume**. The goal is to improve low-frequency extension, bass response, and overall acoustic efficiency.
